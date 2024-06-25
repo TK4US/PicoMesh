@@ -40,7 +40,7 @@
 
 #define USE_RF95
 #define LORA_DIO0 27
-#define LORA_DIO1 18
+#define LORA_DIO1  RADIOLIB_NC
 #define LORA_RESET 15
 #define LORA_DIO2 2
 
