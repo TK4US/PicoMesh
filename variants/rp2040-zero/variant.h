@@ -15,7 +15,7 @@
 // rxd = 9
 
 // #define EXT_NOTIFY_OUT 22
-// #define BUTTON_PIN 17
+#define BUTTON_PIN 28
 
 // #define LED_PIN PIN_LED
 
