@@ -30,13 +30,13 @@
 #undef LORA_MOSI
 #undef LORA_CS
 
-#define LORA_SCK 10
-#define LORA_MISO 12
-#define LORA_MOSI 11
-#define LORA_CS 3
+#define LORA_SCK 14
+#define LORA_MISO 8
+#define LORA_MOSI 15
+#define LORA_CS 7
 
-#define LORA_RESET 15
+#define LORA_RESET 26
 #define LORA_DIO0 27
 #define LORA_DIO1 29
-#define LORA_DIO2 2
+#define LORA_DIO2 RADIOLIB_NC
 #define LORA_DIO3 RADIOLIB_NC
